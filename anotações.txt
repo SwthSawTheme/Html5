@@ -1,0 +1,20 @@
+Arpanet foi desenvolvida para proteger centros militares na guerra fria
+A parte militar da Arpanet ficou com uma rede chamada "Milnet"
+A rede das universidades ficou como Nsfnet
+E também existia uma rede comercial.
+
+O termo Interconnect Networking foi abreviado para Internetworking, e foi simplificado ainda mais para Internet
+
+Tim Berners-Lee criador do protocolo "http://" e da linguagem Html </>, e também www (World Wide Web)
+
+Html
+linguagem html é focada em "conteudo"
+textos, imagens, videos e tabelas.
+
+CSS
+foco em designer
+cores, sombras, tamanhos e posicionamento
+
+JS
+Faz as interações
+menus interativos, animações, popups e validações
