@@ -18,3 +18,19 @@ cores, sombras, tamanhos e posicionamento
 JS
 Faz as interações
 menus interativos, animações, popups e validações
+
+Vamos adicionar alguns   
+        símbolos especiais:
+        &reg;
+        &copy;
+        &trade;
+        &euro;
+        &pound;
+        &yen;
+        &cent;
+        &Delta;
+        &uparrow;
+
+vamos adicionar alguns emoji
+        &#x1F596;
+        &#x1F913;
