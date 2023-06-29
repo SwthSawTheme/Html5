@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Imagem Flexivel</title>
+    <link rel="shortcut icon" href="images/icon.png" type="image/x-icon">
+</head>
+<body>
+    <h1>Imagem Flexível</h1>
+    <p>Experimente expandir seu navegador para maior experiencia!</p>
+
+    <picture>
+        <source media="(min-width:1050px )" srcset="images/foto-g.jpg" type="image/jpg">
+        <source media="(min-width:760px )" srcset="images/foto-m.jpg" type="image/jpg">
+        <img src="images/foto-p.jpg" alt="ghost">
+    </picture>
+</body>
+</html>
