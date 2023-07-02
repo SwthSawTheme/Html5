@@ -1,0 +1,8 @@
+body{
+    background-image: url('images/diabloIv.jpg');
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(255, 0, 0);
+    font-style: italic;
+    font-size: 10px;
+}

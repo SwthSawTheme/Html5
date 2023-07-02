@@ -34,3 +34,8 @@ Vamos adicionar alguns
 vamos adicionar alguns emoji
         &#x1F596;
         &#x1F913;
+
+HTML - Linguagem de Marcação de Hipertexto
+
+CSS - Folhas de Estilo em Cascatas
+
