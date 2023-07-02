@@ -39,3 +39,42 @@ HTML - Linguagem de Marcação de Hipertexto
 
 CSS - Folhas de Estilo em Cascatas
 
+Harmonia de cores
+        Circulo Cromático;
+                Cores Primarias:
+                        Amarelo
+                        Vermelho
+                        Azul
+                Cores Secundarias
+                        Verde
+                        Laranja
+                        Violeta
+                Cores Terciarias
+                        Mistura entre as duas primeiras
+                Temperatura de Cores
+                        Esquerda cores Frias;
+                        Direita cores quentes;
+                Cores Complementares
+                        Usasse cores opostas relacionada a que você escolheu
+                Cores Análogas
+                        Cores vizinhas
+                Cores Análogas e Complementares
+
+                Cores Analogas e Relacionadas
+                        Use duas cores para degrade, e pule 1 no circulo para criar uma paleta com contraste
+                Cores Intercaladas
+                        Use uma cor e pule para selecionar a proxima
+                Cores Triádicas
+                        Use uma cor e pule 3 cores para a proxima, selecione no maximo 3 cores
+                Cores em Quadrado
+                        use uma cor, e pule 2 cores. No maximo 4 cores
+                Cores Tetrádicas
+                        Use uma cor, e selecione uma cor complementar, e faça isso pra mais 1 cor.
+                Monocromia
+                        Use apenas 1 cor, e modifique a saturação e o brilho.
+
+
+
+
+                 
+
