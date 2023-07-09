@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+/*Em html é id, em css é # (só pode um elemento)
+Em html é class, em css é .(pode varios elementos)*/
+
+body {
+    background-image: linear-gradient(to top,#232625,#35403A,#4C594F,#A4A69C);
+}
+
+#prime {
+    text-align: center;
+    background-color: #4C594F;
+    color: #04140f;
+}
+
+.sub {
+    background-image: linear-gradient(to left,#232625,#3d3540,#594c56);
+}
+
+.basico {
+    color: #3a2d85;
+    text-align: center;
+}
+
+.intermediario {
+    color: #2d8543;
+    text-align: center;
+}
+
+.avancado {
+    color: #852d2d;
+    text-align: center;
+}

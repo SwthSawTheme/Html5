@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+@font-face {
+    font-family: text;
+    src: url();
+}
+body {
+    font-family: 'Great Vibes', cursive;
+    font-size: 2em;
+    text-align: center;
+    background-image: linear-gradient(to top, #402813,#734C29,#A67246,#D9AB82,#F2CEA2);
+    background-attachment: fixed;
+}

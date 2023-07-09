@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+#div1 > p {
+    background-color: blanchedalmond;
+    display: none;
+}
+#div1:hover {
+    color: rgb(255, 0, 0);
+}
+
+#div1:hover > p {
+    display: block;
+    text-align: center;
+    background-image: linear-gradient(to left, #232625,#35403A,#4C594F);
+    height: 150px;
+    width: 300px;
+    border: 1px solid ;
+    color: black;
+}
+#div2 > p {
+    display: none;
+}
+#div2:hover {
+    color: tomato;
+}
+
+#div2:hover > p {
+    display: block;
+    height: 200px;
+    width: 150px;
+    border: 1px solid rebeccapurple;
+    background-color: #232625;
+    color: aliceblue;
+    text-align: center;
+}
