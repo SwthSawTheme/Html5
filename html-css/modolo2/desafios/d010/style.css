@@ -1,0 +1,115 @@
+@font-face {
+    font-family: idroid;
+    src: url(fontes/idroid.otf);
+}
+
+body {
+    background-color: rgb(110, 150, 137);
+    margin: 0px;
+}
+
+header {
+    padding-bottom: 1px;
+    padding-top: 35px;
+    background-image: linear-gradient(to top, rgb(4, 85, 51),rgb(4, 122, 73), rgb(4, 141, 95));
+    box-shadow: 1px 2px 20px rgb(1, 66, 50);
+}
+
+header > h1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bolder;
+    margin: 0px;
+    color: azure;
+    text-align: center;
+    font-size: 40px;
+}
+
+#subtitulo {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bolder;
+    text-align: center;
+    font-size: 16px;
+    color: azure;
+    margin: 20px;
+}
+
+menu {
+    padding: 1px;
+}
+
+menu > a {
+    padding: 10px;
+    text-decoration: none;
+    color: azure;
+    font-size: 14px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+menu > a:hover {
+    background-color: rgb(11, 139, 6);
+    border-radius: 8px;
+    box-shadow: 1px 2px 20px rgb(1, 66, 50);
+}
+
+main {
+    width: 800px;
+    background-color: aliceblue;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    box-shadow: 1px 2px 20px rgb(1, 66, 50);
+}
+
+main > article > h1 {
+    font-family: idroid;
+    color: rgb(7, 128, 43);
+}
+
+main > article > p {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-indent: 30px;
+    font-size: 18px;
+    padding: 5px;
+}
+
+main > article > h2 {
+    font-family: idroid;
+    color: rgb(7, 128, 43);
+    background-image: linear-gradient(to left, rgb(246, 247, 246), rgb(177, 202, 177));
+}
+
+#img {
+    text-align: center;
+}
+
+#temafinal {
+    width: 800px;
+    height: 600px;
+    background-color: rgb(180, 211, 180);
+    border-radius: 20px;
+    box-shadow: 1px 2px 20px rgb(1, 66, 50);
+}
+
+#textfinal {
+    background-color: rgb(9, 156, 112);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: azure;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 20px 20px 0px 0px;
+
+}
+
+footer {
+    background-image: linear-gradient(to top, rgb(4, 85, 51),rgb(4, 122, 73), rgb(4, 141, 95));
+    padding: 10px;
+}
+
+footer > p {
+    margin: 0px;
+    text-align: center;
+    color: azure;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 100%;
+}
